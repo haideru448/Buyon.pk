@@ -1,2 +1,2 @@
 # Buyon.pk
-First practice done in 5th semester
+Simple Ecommerce Site Made by me as my First Ever Web project :)
