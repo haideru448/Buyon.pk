@@ -1,2 +1,2 @@
 # Buyon.pk
-Simple Ecommerce Site Made by me as my First Ever Web project :)
+Simple Ecommerce Web Project for Beginners
